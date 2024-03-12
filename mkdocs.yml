@@ -1,0 +1,14 @@
+site_name: My Website
+theme:
+    name: material
+    palette:
+        primary: 'blue'
+    font:
+        text: 'Arial, sans-serif'
+    features:
+        - navigation.tabs
+        - navigation.prev_next
+nav:
+    - Home: index.md
+    - About: about.md
+
